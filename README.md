@@ -11,5 +11,5 @@ I'm interseted in Data Engineering , DevOps and Machine Learning , I really enjo
 
 I am interested in incorporating LaTeX into my programming project to give the code a mathematical touch.
 
-$$R^2 = 1 - \frac{ \hat{Var}(\hat{y}) }{ \hat{Var}(y) }$$
+$$R^2 = 1 - \frac{ \widehat{Var}(\widehat{y}) }{ \widehat{Var}(y) }$$
 
