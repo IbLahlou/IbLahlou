@@ -10,3 +10,6 @@ I'am Morrocan living in casablanca and currently a student in 2nd year of Data s
 I'm interseted in Data Engineering , DevOps and Machine Learning , I really enjoy learning languages and frameworks like React for web developpement
 
 I am interested in incorporating LaTeX into my programming project to give the code a mathematical touch.
+
+$$R^2 = 1 - \frac{ \hat{Var}(\hat{y}) }{ \hat{Var}(y) }$$
+
