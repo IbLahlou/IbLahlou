@@ -1,23 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Lahlou</h1>
-<h3 align="center">A passionate Data Engineer & Data Analyst from Morroco</h3>
+# Hi 👋, I'm Ibrahim Lahlou
+## A passionate Data Engineer & Data Analyst from Morocco
 
-<p align="center">
+I am a Moroccan living in Casablanca and currently a second-year student of Data Science & Cloud Computing Engineering at ENSA Oujda, after completing my preparatory classes in the same school.
 
-</p>
+I am interested in Data Engineering, DevOps, and Machine Learning. I enjoy learning languages and frameworks like React for web development.
 
-I'am Morrocan living in casablanca and currently a student in 2nd year of Data science & cloud computing engineering at ENSA oujda after studying the prepatory classes in the same school 
-
-I'm interseted in Data Engineering , DevOps and Machine Learning , I really enjoy learning languages and frameworks like React for web developpement
-
-I am interested in incorporating LaTeX into my programming project to give the code a mathematical touch.
+I am also interested in incorporating LaTeX into my programming projects to give the code a mathematical touch. Here's an example of the coefficient of determination using LaTeX
 
 $$R^2 = 1 - \frac{ \widehat{Var}(\widehat{y}) }{ \widehat{Var}(y) }$$
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+![Coefficient of Determination](https://render.githubusercontent.com/render/math?math=R^2%20%3D%201%20-%20%5Cfrac%7B%5Cwidehat%7BVar%7D%28%5Cwidehat%7By%7D%29%7D%7B%5Cwidehat%7BVar%7D%28y%29%7D)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere%21;Add+a+bio+to+your+profile%21;Add+a+description+to+your+repo%21;Make+your+readme+stand+out%21&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Connect with me:
+<!-- Add your social media and contact links here -->
+
+### Languages and Tools:
+<!-- Replace the existing list with the languages and tools you use -->
+- Bash
+- Bootstrap
+- Docker
+- Google Cloud Platform (GCP)
+- Git
+- Adobe Illustrator
+- Java
+- Kubernetes
+- Laravel
+- Linux
+- MySQL
+- Node.js
+- pandas
+- PHP
+- Postman
+- Python
+- RabbitMQ
+- React
