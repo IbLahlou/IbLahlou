@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ibrahim Lahlou
-## A passionate Data Engineer & Data Analyst from Morocco
+## A passionate Data Engineer & ML Ops Engineer from Morocco
 
 I am a Moroccan living in Casablanca and currently a second-year student of Data Science & Cloud Computing Engineering at ENSA Oujda, after completing my preparatory classes in the same school.
 
