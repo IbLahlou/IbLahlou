@@ -7,7 +7,6 @@ I am interested in Data Engineering, DevOps, and Machine Learning. I enjoy learn
 
 I am also interested in incorporating LaTeX into my programming projects to give the code a mathematical touch. Here's an example of the coefficient of determination using LaTeX
 
-$$R^2 = 1 - \frac{ \widehat{Var}(\widehat{y}) }{ \widehat{Var}(y) }$$
 
 ![Coefficient of Determination](https://render.githubusercontent.com/render/math?math=R^2%20%3D%201%20-%20%5Cfrac%7B%5Cwidehat%7BVar%7D%28%5Cwidehat%7By%7D%29%7D%7B%5Cwidehat%7BVar%7D%28y%29%7D)
 
