@@ -81,42 +81,42 @@ I am also interested in incorporating LaTeX into my programming projects to give
 ## Technical Skills
 
 ### Business Intelligence
-- ETL & Data Quality: Talend
-- Data Restitution: Power Bi / Power Query
-- Data Base: MySQL (most use), SQL server for OLTP and OLAP
-- Computer language: SQL, MDX
+- **ETL & Data Quality**: Talend
+- **Data Restitution**: Power Bi / Power Query
+- **Data Base**: MySQL (most use), SQL server for OLTP and OLAP
+- **Computer language**: SQL, MDX
 
 ### Machine Learning
-- Classification: Logistic Regression, KNN
-- Regression: Simple & Multiple Linear Regression, Ridge Regression
-- Data Reduction: PCA, SVD
-- Time Series: ARIMA, RNN, LSTM (not now)
-- Geospatial analysis: geopandas, fillow
-- Programming Languages:
-  - Python: Pytorch, Tensorflow
-  - R: Data.table, caret
+- **Classification**: Logistic Regression, KNN
+- **Regression**: Simple & Multiple Linear Regression, Ridge Regression
+- **Data Reduction**: PCA, SVD
+- **Time Series**: ARIMA, RNN, LSTM (not now)
+- **Geospatial analysis**: geopandas, fillow
+- **Programming Languages**:
+  - **Python**: Pytorch, Tensorflow
+  - **R**: Data.table, caret
 
 ### OS, Cloud & DevOps
-- Version Control System: Git, DVC for Data VCS
-- Operating system: Linux (ubuntu / kali), Windows (cmd or powershell)
-- Service Cloud: GCP, AWS
-- Virtualization tools: Virtual Box
-- Conteneraziation: Docker
-- Orchestration: Kubernetes (K8S)
-- Networking tools: Cisco Packet Tracer, Wireshark
+- **Version Control System**: Git, DVC for Data VCS
+- **Operating system**: Linux (ubuntu / kali), Windows (cmd or powershell)
+- **Service Cloud**: GCP, AWS
+- **Virtualization tools**: Virtual Box
+- **Conteneraziation**: Docker
+- **Orchestration**: Kubernetes (K8S)
+- **Networking tools**: Cisco Packet Tracer, Wireshark
 
 ### Web Development
-- Backend: Java Web (JEE), PHP
-- Frontend: React.js, Bootstrap 5, HTML, CSS, JS
-- Content Management system: Wordpress / WooCommerce
+- **Backend**: Java Web (JEE), PHP
+- **Frontend**: React.js, Bootstrap 5, HTML, CSS, JS
+- **Content Management system**: Wordpress / WooCommerce
 
 ### Design & Editing
-- Graphic Design: Canva, Adobe Illustrator
-- UI/UX: Figma
-- Video Editing: Canva, Adobe Premier Pro
-- Image Editing: Adobe Photoshop
-- Bureautique:
-  - Microsoft 365: Excel, Word, Powerpoint
-  - Google: Google Sheets (js macro), Google Docs
+- **Graphic Design**: Canva, Adobe Illustrator
+- **UI/UX**: Figma
+- **Video Editing**: Canva, Adobe Premier Pro
+- **Image Editing**: Adobe Photoshop
+- **Bureautique**:
+  - **Microsoft 365**: Excel, Word, Powerpoint
+  - **Google**: Google Sheets (js macro), Google Docs
 
 
