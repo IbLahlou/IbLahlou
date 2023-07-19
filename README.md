@@ -3,9 +3,6 @@
 
 I am a Moroccan living in Casablanca and currently a second-year student of Data Science & Cloud Computing Engineering at ENSA Oujda, after completing my preparatory classes in the same school.
 
-![image](https://github.com/IbLahlou/IbLahlou/assets/105231126/a19ee550-49e6-4eb7-a3cd-8ac9305a6425)
-
-
 I am interested in Data Engineering, DevOps, and Machine Learning. I enjoy learning languages and frameworks like React for web development.
 
 I am also interested in incorporating LaTeX into my programming projects to give the code a mathematical touch. Here's an example of the coefficient of determination using LaTeX
@@ -127,4 +124,5 @@ $$Goal\\_Value(x) = \begin{cases}
   - **Microsoft 365**: Excel, Word, Powerpoint
   - **Google**: Google Sheets (js macro), Google Docs
 
+![image](https://github.com/IbLahlou/IbLahlou/assets/105231126/264be49d-31f5-40ab-b1e3-ed77fe453518)
 
