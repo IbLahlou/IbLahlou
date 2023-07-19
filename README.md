@@ -45,25 +45,117 @@ I am also interested in incorporating LaTeX into my programming projects to give
 
 ### Connect with me:
 <!-- Add your social media and contact links here -->
+- github
+- linkedin
+- twitter
+- kaggle
+- instagram
+- facebook
 
 
+### Non Technical Skills :
+- Collaborative & Adaptive
+- Autonoumous
+- Problem Solving
 
+## Hobbies
+- Graphic Design / Drawing
+- Cartography & Science
+- Chess / Checkers / Card games
+- Ping-pong
+- Running
 
-rewrite the this md code to put logo image in place of just text for my github profile
+## Contact
 
-### Languages and Tools:
-<!-- Replace the existing list with the languages and tools you use -->
-- Python / Pytorch / Tensorflow / Sckitlearn / tabula-py pytesstract / pandas numpy matplotlib / beautifulsoup request csv openxls / geopandas fillow
-- JavaScript / Node.js / React.js / Axios
-- C / C++
-- PHP / Composer
-- Adobe Illustrator
-- Git / DVC
-- Java
-- Docker
-- Linux
-- MySQL
-- Postman
-- RabbitMQ
-- - Kubernetes
-- Google Cloud Platform (GCP)
+- Email : ibrahimlahlou021@gmail.com
+
+## Technical Skills
+
+- **Business Intelligence**
+  - ETL & Data Quality
+    - Talend
+  - Data Restitution
+    - Power Bi / Power Query
+  - Data Base
+    - MySQL (most use)
+    - SQL server for OLTP and OLAP
+  - Computer language
+    - SQL
+    - MDX
+      
+- **Machine Learning**
+  - Classification
+    - Logistic Regression
+    - KNN
+  - Regression
+    - Simple & Multiple Linear Regression
+    - Ridge Regression
+  - Data Reduction
+    - PCA
+    - SVD
+  - Time Series
+    - ARIMA
+    - RNN
+    - LSTM (not now)
+  - Geospatial analysis
+     - geopandas
+     - fillow
+  - Programming Languages
+    - Python
+      - Pytorch
+      - Tensorflow 
+    - R
+      - Data.table
+      - caret
+
+  - **OS , Cloud & DevOps**
+    - Version Control System
+      - Git
+      - DVC for Data VCS 
+    - Operating system
+      -  Linux (ubuntu / kali )
+      -  Windows (cmd or powershell)
+    -  Service Cloud
+      -  GCP
+      -  AWS
+    -  Virtualization tools
+      - Virtual Box 
+    -  Conteneraziation
+      -  Docker
+    -  Orchestration
+      -  Kubernetes (K8S)
+    -  Networking tools
+      - Cisco Packet Tracer
+      - Wireshark
+ - **WEB DEVELOPEMENT**
+   - Backend :
+     - Java Web (JEE)
+     - PHP
+   - Frontend :
+     - React.js
+     - Bootstrap 5
+     - HTML
+     - CSS
+     - JS
+   - Content Management system
+     - Wordpress / WooCommerce
+ - **Design & Editing**
+    - Graphic Design
+      - Canva
+      - Adobe Illustrator
+    - UI/UX
+      - Figma
+    - Video Editing
+      - Canva
+      - Adobe Premier Pro
+    - Image Editing
+      - Adobe Photosop
+    - Bureautique
+      - Microsoft 365
+        - Excel
+        - Word
+        - Powerpoint
+      - Google
+        - Google Sheets (js macro)
+        - Google Docs
+
