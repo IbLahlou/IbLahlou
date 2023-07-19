@@ -7,6 +7,11 @@ I am interested in Data Engineering, DevOps, and Machine Learning. I enjoy learn
 
 I am also interested in incorporating LaTeX into my programming projects to give the code a mathematical touch. Here's an example of the coefficient of determination using LaTeX
 
+$$Goal\\_Value(x) = \begin{cases}
+       x + 1 & \text{While Winning }  \\
+        x  & \text{While Failing } 
+       \end{cases}$$
+
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere%21;Add+a+bio+to+your+profile%21;Add+a+description+to+your+repo%21;Make+your+readme+stand+out%21&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
