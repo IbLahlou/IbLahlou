@@ -18,7 +18,8 @@
        alt="snake" /></a>
 </div>
 
-  <summary>💻 GitHub Profile Stats</summary>
+****
+## 💻 GitHub Profile Stats 
 </table>
 <p align="center">
 <a href="https://github.com/IbLahlou">
@@ -43,8 +44,8 @@
   
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere%21;Add+a+bio+to+your+profile%21;Add+a+description+to+your+repo%21;Make+your+readme+stand+out%21&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
-
-💻 Technical Skills:
+****
+## 💻 Technical Skills:
 
 | Category                | Skills                                              |
 |------------------------|-----------------------------------------------------|
