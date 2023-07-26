@@ -1,7 +1,5 @@
 # Hi 👋, I'm Ibrahim Lahlou
-## A passionate Data Engineer & MlOps Engineer from Morocco
 
-👋 Ibrahim Lahlou, a Data and MLOps Engineer from Morocco
 
 🎓 Second-year Data Science & Cloud Computing Engineering student at ENSA Oujda
 
@@ -14,16 +12,33 @@ $$Goal\\_Value(x) = \begin{cases}
         x  & \text{While Failing } 
        \end{cases}$$
 
+<div align="center">
+  <a href="https://github.com/med-be">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
+
+
+  <summary>💻 GitHub Profile Stats</summary>
+<div>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/IbLahlou">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbLahlou&langs_count=6&theme=vue&layout=compact&hide_border=true" alt="IbLahlou :: Top Langs" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/IbLahlou">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IbLahlou&show_icons=true&theme=vue&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&theme=vue&hide_border=true" />
+    </a>
+  </p>
+  <br>
+</div>
+
+  
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere%21;Add+a+bio+to+your+profile%21;Add+a+description+to+your+repo%21;Make+your+readme+stand+out%21&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=IbLahlou&count_private=true&show_icons=true&theme=light)
-
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omaraitbenhaddi&show_icons=true&theme=radical)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbLahlou&layout=compact)
-
 
 
 💻 Technical Skills:
@@ -31,7 +46,7 @@ $$Goal\\_Value(x) = \begin{cases}
 - Machine Learning: Classification, Regression, PCA, Python, R
 - OS, Cloud & DevOps: Git, Linux, GCP, Docker, Kubernetes
 - Web Development: Java Web, React.js, HTML, CSS
-- Design & Editing: Graphic Design, UI/UX, Video Editing
+- Design & Editing: Graphic Design, UI/UX
 
 📚 Interested in incorporating LaTeX into programming projects
 
@@ -39,5 +54,4 @@ $$Goal\\_Value(x) = \begin{cases}
 
 📧 Contact: ibrahimlahlou021@gmail.com
 
-![image](https://github.com/IbLahlou/IbLahlou/assets/105231126/264be49d-31f5-40ab-b1e3-ed77fe453518)
 
