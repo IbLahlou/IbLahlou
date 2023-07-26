@@ -50,7 +50,8 @@
 
 ****
 ## 💻 Technical Skills:
-
+<details>
+	
 | Category                | Skills                                              |
 |------------------------|-----------------------------------------------------|
 | Business Intelligence  | Talend, Power Bi, MySQL, SQL Server                |
@@ -59,6 +60,6 @@
 | Web Development        | Java Web, React.js, HTML, CSS                      |
 | Design & Editing       | Graphic Design, UI/UX                              |
 
-
+</details>
 
 
