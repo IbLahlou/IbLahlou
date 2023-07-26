@@ -5,20 +5,18 @@
 
 🚀 Passionate about Data Engineering, DevOps, and Machine Learning
 
-I am also interested in incorporating LaTeX into my programming projects to give the code a mathematical touch. Here's an example of the coefficient of determination using LaTeX
+📚 Interested in incorporating LaTeX into programming projects
 
-$$Goal\\_Value(x) = \begin{cases}
-       x + 1 & \text{While Winning }  \\
-        x  & \text{While Failing } 
-       \end{cases}$$
+🎨 Hobbies: Graphic Design, Chess, Ping-pong, Running
+
+📧 Contact: ibrahimlahlou021@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/med-be">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-
 
   <summary>💻 GitHub Profile Stats</summary>
 <div>
@@ -42,16 +40,15 @@ $$Goal\\_Value(x) = \begin{cases}
 
 
 💻 Technical Skills:
-- Business Intelligence: Talend, Power Bi, MySQL, SQL Server
-- Machine Learning: Classification, Regression, PCA, Python, R
-- OS, Cloud & DevOps: Git, Linux, GCP, Docker, Kubernetes
-- Web Development: Java Web, React.js, HTML, CSS
-- Design & Editing: Graphic Design, UI/UX
 
-📚 Interested in incorporating LaTeX into programming projects
+| Category                | Skills                                              |
+|------------------------|-----------------------------------------------------|
+| Business Intelligence  | Talend, Power Bi, MySQL, SQL Server                |
+| Machine Learning       | Classification, Regression, PCA, Python, R         |
+| OS, Cloud & DevOps     | Git, Linux, GCP, Docker, Kubernetes                |
+| Web Development        | Java Web, React.js, HTML, CSS                      |
+| Design & Editing       | Graphic Design, UI/UX                              |
 
-🎨 Hobbies: Graphic Design, Chess, Ping-pong, Running
 
-📧 Contact: ibrahimlahlou021@gmail.com
 
 
