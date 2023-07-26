@@ -19,21 +19,26 @@
 </div>
 
   <summary>💻 GitHub Profile Stats</summary>
-<div>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/IbLahlou">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbLahlou&langs_count=6&theme=vue&layout=compact&hide_border=true" alt="IbLahlou :: Top Langs" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/IbLahlou">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IbLahlou&show_icons=true&theme=vue&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&theme=vue&hide_border=true" />
-    </a>
-  </p>
-  <br>
-</div>
+</table>
+<p align="center">
+<a href="https://github.com/IbLahlou">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=IbLahlou&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=IbLahlou&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+	</picture>
+</a>
+<a href="https://github.com/IbLahlou">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminhalko&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc&card_width=340px"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbLahlou&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc,java&card_width=340px">
+	</picture>
+</a>
 
   
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere%21;Add+a+bio+to+your+profile%21;Add+a+description+to+your+repo%21;Make+your+readme+stand+out%21&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
