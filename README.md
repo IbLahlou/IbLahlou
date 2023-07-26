@@ -7,7 +7,7 @@
 
 📚 Interested in incorporating LaTeX into programming projects
 
-🎨 Hobbies: Graphic Design, Chess, Ping-pong, Running
+🎨 Hobbies: Graphic Design, Ping-pong, Running ,Drawing Maps , Geography
 
 📧 Contact: ibrahimlahlou021@gmail.com
 
