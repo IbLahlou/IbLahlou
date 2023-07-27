@@ -45,11 +45,9 @@
 
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?user=IbLahlou&theme=tokyonight&hide_title=true&hide_border=true&langs_count=5" alt="Stats" />
 </p>
-
-
-
-
 ****
 ## 💻 Technical Skills:
 <details>
