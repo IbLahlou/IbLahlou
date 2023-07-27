@@ -57,6 +57,14 @@
 ****
 
 ## 💻 Technical Skills:
+
+**Domaine d'expertise :**
+<details>
+| Maths        |  Hardware  | Management       | Hobbies |
+|:---------------:|:---------------------:|:-----------------:|:------------------:|
+	
+</details>
+**Technology :**
 <details>
 
 | Langages        | Frameworks / Outils   | Data Science      | Design / Animation |
