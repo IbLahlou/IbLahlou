@@ -13,9 +13,12 @@
 
 📧 Contact: ibrahimlahlou021@gmail.com
 
+<p align="center">
+  <img src="https://www.otaviomiranda.com.br/wp-content/uploads/2020/03/javascript-python.png" alt="Streak" style="width: 25%;" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/med-be">
+  <a href="https://github.com/IbLahlou">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
