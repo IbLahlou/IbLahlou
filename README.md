@@ -3,21 +3,25 @@
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
-🎓 Second-year Data Science & Cloud Computing Engineering student at ENSA Oujda
+### Profil Information :
+<details>
+	
+- 🎓 Second-year Data Science & Cloud Computing Engineering student at ENSA Oujda
+- 🚀 Passionate about Data Engineering, DevOps, and Machine Learning
+- 📚 Interested in incorporating LaTeX into programming projects
+- 🎨 Hobbies: Graphic Design, Ping-pong, Running, Drawing Maps, Geography
+- 📧 Contact: ibrahimlahlou021@gmail.com
 
-🚀 Passionate about Data Engineering, DevOps, and Machine Learning
-
-📚 Interested in incorporating LaTeX into programming projects
-
-🎨 Hobbies: Graphic Design, Ping-pong, Running ,Drawing Maps , Geography
-
-📧 Contact: ibrahimlahlou021@gmail.com
-
-<div align="center">
+  <div align="center">
   <a href="https://github.com/IbLahlou">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+</details>
+
+
+
+
 
 ****
 ## 💻 GitHub Profile Stats 
@@ -51,17 +55,8 @@
 ****
 
 ## 💻 Technical Skills:
-<details>
-	
-| Category                | Skills                                              |
-|------------------------|-----------------------------------------------------|
-| Business Intelligence  | Talend, Power Bi, MySQL, SQL Services ,Kafka , Snowflakes                |
-| Machine Learning       | Classification, Regression,ANN,Time Series , Geospatial , PCA, Python, R    |
-| OS, Cloud & DevOps     | Git, Linux, GCP, Docker, Kubernetes   , DVC            |
-| Web Development        | Java Web, React.js, HTML, CSS, PHP, Wordpress      |
-| Design & Editing       | Graphic Design, UI/UX                              |
 
-</details>
+
 <br>
 <p align="center">
 	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
