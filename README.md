@@ -1,10 +1,12 @@
 # Hi 👋, I'm Ibrahim Lahlou , 
-### this my acadamic account for ump
+
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
 ## Profil Information :
+
+> this my acadamic account for ump
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ib_lahlou/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-lahlou-ab09861ba/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@IbLahlou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ILoDo01) 
 <details>
