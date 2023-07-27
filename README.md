@@ -13,10 +13,6 @@
 
 📧 Contact: ibrahimlahlou021@gmail.com
 
-<p align="center">
-  <img src="https://www.otaviomiranda.com.br/wp-content/uploads/2020/03/javascript-python.png" alt="Streak" style="width: 25%;" />
-</p>
-
 <div align="center">
   <a href="https://github.com/IbLahlou">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -66,5 +62,8 @@
 | Design & Editing       | Graphic Design, UI/UX                              |
 
 </details>
-
+<br>
+<p align="center">
+	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
+</p>
 
