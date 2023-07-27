@@ -59,10 +59,10 @@
 	
 | Category                | Skills                                              |
 |------------------------|-----------------------------------------------------|
-| Business Intelligence  | Talend, Power Bi, MySQL, SQL Server                |
-| Machine Learning       | Classification, Regression, PCA, Python, R         |
-| OS, Cloud & DevOps     | Git, Linux, GCP, Docker, Kubernetes                |
-| Web Development        | Java Web, React.js, HTML, CSS                      |
+| Business Intelligence  | Talend, Power Bi, MySQL, SQL Services ,Kafka , Snowflakes                |
+| Machine Learning       | Classification, Regression,ANN,Time Series , Geospatial , PCA, Python, R    |
+| OS, Cloud & DevOps     | Git, Linux, GCP, Docker, Kubernetes   , DVC            |
+| Web Development        | Java Web, React.js, HTML, CSS, PHP, Wordpress      |
 | Design & Editing       | Graphic Design, UI/UX                              |
 
 </details>
