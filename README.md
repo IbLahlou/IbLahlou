@@ -59,12 +59,21 @@
 ## 💻 Technical Skills:
 
 **Domaine d'expertise :**
+
 <details>
-| Maths        |  Hardware  | Management       | Hobbies |
-|:---------------:|:---------------------:|:-----------------:|:------------------:|
-	
+
+| Maths           | Hardware               | Management  Tools       | Hobbies                            |
+|:---------------:|:---------------------:|:-----------------:|:----------------------------------:|
+|  Linear Algebra           | Networking|   JIRA  | Graphic Design / Drawing           |
+|  Statistics              |   Virtualization  |  Google Sheets & Microsoft Excel        | Cartography & Science              |
+|  Graph Theory               | IOT with Arduino    | Obsidian   | Chess / Checkers / Card games      |
+|  Linear Programming                |              |      Notion             | Ping-pong                          |
+|  Probability             |               |                   | Running                            |
+
 </details>
+
 **Technology :**
+
 <details>
 
 | Langages        | Frameworks / Outils   | Data Science      | Design / Animation |
