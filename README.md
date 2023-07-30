@@ -53,7 +53,7 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 70%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 100%;" />
 </p>
 
 
