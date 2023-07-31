@@ -8,7 +8,11 @@
 
 > this my acadamic account for ump
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ib_lahlou/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-lahlou-ab09861ba/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@IbLahlou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ILoDo01) [![Kaggle](https://img.shields.io/badge/Kaggle-%20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ibrahimld01) 
+My Website : https://iblahlou.github.io/
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ib_lahlou/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-lahlou-ab09861ba/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@IbLahlou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ILoDo01) [![Kaggle](https://img.shields.io/badge/Kaggle-%20BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ibrahimld01) [![DEV.TO](https://img.shields.io/badge/dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/iblahlou)[![DataCamp](https://img.shields.io/badge/datacamp-%2303EF62.svg?logo=datacamp&logoColor=white)](https://www.datacamp.com/profile/your_datacamp_username)
+
+
 <details>
 	
 - 🎓 Third-year Data Science & Cloud Computing Engineering student at ENSA Oujda at Mohamed First University
