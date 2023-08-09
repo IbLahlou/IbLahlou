@@ -6,7 +6,7 @@
 
 ## Profil Information :
 
-> this my acadamic account for ump
+> this my personal account 
 
 - My Website : https://iblahlou.github.io/
 
