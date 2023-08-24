@@ -6,7 +6,7 @@
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
-## Profil Information :
+## 🪪 Profil Information :
 
 - My Website : https://iblahlou.github.io/
 
@@ -67,7 +67,7 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
 </p>
 
 
