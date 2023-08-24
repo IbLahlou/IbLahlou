@@ -1,7 +1,7 @@
 
 # Ibrahim Lahlou
 
-
+<img src="minecraft-shader.gif" width="100%" height="400px">
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
@@ -35,6 +35,8 @@
 
 <label>Visitors :</label> <br>
 ![Visitor Count](https://profile-counter.glitch.me/IbLahlou/count.svg)
+
+<img src="minecraft-sammear.gif" width="100%">
 </details>
 
 
@@ -109,6 +111,7 @@
 | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |                   |                   |
 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |                   |                   |
 
+
 </details>
 
 ## 🏆 Trophies
@@ -119,7 +122,7 @@
 <br/>
 
 <br>
+<img src="tumblr_d1456469a1814e5040de89e41d114fbf_48b44a9b_540.gif" width="100%" height="400px">
 <p align="center">
 	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
 </p>
-
