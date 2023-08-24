@@ -1,14 +1,15 @@
 
-# Hi There ^_^ !
-### I'm Ibrahim Lahlou
+# Hi There ^_^ ! 
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
 ## Profil Information :
 
-> this my personal account 
+> this my personal account
 
+- First name : Ibrahim
+- Last name : Lahlou
 - My Website : https://iblahlou.github.io/
 
 - Social Media Plateforms : [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ib_lahlou/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ILoDo01)
@@ -17,14 +18,17 @@
 
 
 <details>
-	
+
+ 
 - 🎓 Third-year Data Science & Cloud Computing Engineering student at ENSA Oujda at Mohamed First University
 - 🚀 Passionate about Data Engineering, DevOps, and Machine Learning
 - 📚 Interested in incorporating LaTeX into programming projects
 - 🎨 Hobbies: Graphic Design, Ping-pong, Running, Drawing Maps, Geography
 - 📧 Contact: ibrahimlahlou021@gmail.com
 - 📧 Contact: ibrahim.lahlou@ump.ac.ma
-
+- Date de Naissance : 0F/01/7D1
+- Téléphone : 2E7A4853
+  
   <div align="center">
   <a href="https://github.com/IbLahlou">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
