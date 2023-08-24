@@ -44,7 +44,7 @@
 
 
 ****
-## 💻 GitHub Profile Stats 
+## 📊 GitHub Profile Stats 
 </table>
 <p align="center">
 <a href="https://github.com/IbLahlou">
