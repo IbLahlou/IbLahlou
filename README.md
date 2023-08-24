@@ -1,15 +1,14 @@
 
-# Hi There ^_^ ! 
+# Ibrahim Lahlou
+
+
+<img src="47692.gif" alt="Texte alternatif" width="100%" height="300px" />
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 
 ## Profil Information :
 
-> this my personal account
-
-- First name : Ibrahim
-- Last name : Lahlou
 - My Website : https://iblahlou.github.io/
 
 - Social Media Plateforms : [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ib_lahlou/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ILoDo01)
