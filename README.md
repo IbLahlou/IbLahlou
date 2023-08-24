@@ -2,7 +2,6 @@
 # Ibrahim Lahlou
 
 
-<img src="47692.gif" alt="Texte alternatif" width="100%" height="300px" />
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
@@ -111,6 +110,14 @@
 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |                   |                   |
 
 </details>
+
+## 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IbLahlou&theme=nord&column=7"  align="center"/>
+</p>
+	
+<br/>
+
 <br>
 <p align="center">
 	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
