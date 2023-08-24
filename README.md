@@ -76,7 +76,7 @@
 
 ## 💻 Technical Skills:
 
-**Domaine d'expertise :**
+**Field of expertise :**
 
 <details>
 
@@ -86,7 +86,7 @@
 |  Statistics              |   Virtualization  |  Google Sheets & Microsoft Excel        | Cartography & Science              |
 |  Graph Theory               | IOT with Arduino    | Obsidian   | Chess / Checkers / Card games      |
 |  Linear Programming                |              |      Notion             | Ping-pong                          |
-|  Probability             |               |                   | Running                            |
+|  Probability             |               |                  | Running                            |
 
 </details>
 
@@ -94,7 +94,7 @@
 
 <details>
 
-| Langages        | Frameworks / Outils   | Data Science      | Design / Animation |
+| Languages        | Frameworks / Tools   | Data Science      | Design / Animation |
 |:---------------:|:---------------------:|:-----------------:|:------------------:|
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
@@ -111,6 +111,25 @@
 | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |                   |                   |
 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |                   |                   |
 
+
+</details>
+
+**Non Technical Skills :**
+<details>
+
+
+| Category               | Tool(s)                                                                                                       |
+|------------------------|---------------------------------------------------------------------------------------------------------------|
+| Problem Solving        | - 1337 Kourbiga Mnpc22 (a fictional tool; please provide more context or information)                        |
+| Organization           | - Délégué de Class 4 Year (assuming it's a role related to class leadership)                                |
+| Personal Development   | - Analyse Transactionnelle<br>- PNL (Programmation Neuro-Linguistique)<br>- Mindfulness<br>- Meditation    |
+| Communication Skills   | - Active Listening<br>- Effective Speaking<br>- Empathy                                                     |
+| Time Management        | - Pomodoro Technique<br>- Eisenhower Matrix<br>- Time Blocking                                             |
+| Stress Management      | - Deep Breathing Exercises<br>- Yoga<br>- Journaling                                                        |
+| Decision Making        | - Pros and Cons Analysis<br>- Six Thinking Hats<br>- Intuition                                             |
+| Leadership Skills      | - Emotional Intelligence<br>- Conflict Resolution<br>- Vision Setting                                      |
+| Creativity             | - Mind Mapping<br>- Brainstorming Techniques<br>- Random Word Generator                                    |
+| Goal Setting           | - SMART Goals<br>- OKR (Objectives and Key Results)                                                        |
 
 </details>
 
