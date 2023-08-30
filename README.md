@@ -141,8 +141,9 @@
 
 <br>
 
+</details>
+
 <p align="center">
 	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
 </p>
 
-</details>
