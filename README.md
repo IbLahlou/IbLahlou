@@ -17,15 +17,10 @@
 
 <details>
 
- 
-- 🎓 Third-year Data Science & Cloud Computing Engineering student at ENSA Oujda at Mohamed First University
-- 🚀 Passionate about Data Engineering, DevOps, and Machine Learning
-- 📚 Interested in incorporating LaTeX into programming projects
-- 🎨 Hobbies: Graphic Design, Ping-pong, Running, Drawing Maps, Geography
+- 🎓 last-year Data Science & Cloud Computing Engineering student at ENSA Oujda at Mohamed First University
+- 🚀 Interset about Data Engineering, DevOps Cloud, and MLops
+- 🌍 Passionate to use Geospatial Data 
 - 📧 Contact: ibrahimlahlou021@gmail.com
-- 📧 Contact: ibrahim.lahlou@ump.ac.ma
-- Date de Naissance : 0F/01/7D1
-- Téléphone : 2E7A4853
   
   <div align="center">
   <a href="https://github.com/IbLahlou">
@@ -73,6 +68,8 @@
 
 
 ****
+
+## 💻 More Informations :
 
 <details>
 
