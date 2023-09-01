@@ -135,6 +135,7 @@
 
 
 </details>
+
 ## 🏆 Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=IbLahlou&theme=nord&column=7"  align="center"/>
