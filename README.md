@@ -132,18 +132,12 @@
 
 </details>
 
+
+
+</details>
 ## 🏆 Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=IbLahlou&theme=nord&column=7"  align="center"/>
 </p>
 	
-<br/>
-
-<br>
-
-</details>
-
-<p align="center">
-	<img src="./Bannière Profile.png" alt="Bannière ML IOT Data Cloud" style="width : 100%">
-</p>
 
