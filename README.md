@@ -1,6 +1,5 @@
 # Ibrahim Lahlou
 
-
 ## 🪪 Profile Information
 
 - Social Media Platforms: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765145323826839553) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ibrahim.lahlou.98/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ib_lahlou/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ILoDo01)
@@ -59,3 +58,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=IbLahlou&theme=nord&column=7"  align="center"/>
 </p>
+
+
+Old Account was deleted due to an email problem
