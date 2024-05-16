@@ -10,7 +10,7 @@
 
 - 🎓 Last-year Data Science & Cloud Computing Engineering student at ENSA Oujda at Mohamed First University
 - 🚀 Interested in Data Engineering, DevOps Cloud, and MLOps
-- 🌍 Passionate about using Geospatial Data 
+- 🌍 Passionate about using Geospatial Data & Computer Vision
 - 📧 Contact: ibrahimlahlou021@gmail.com
 
 <div align="center">
