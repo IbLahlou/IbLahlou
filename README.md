@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ibrahim Lahlou 
+# 👋 Hey, I'm Ibrahim Lahlou (o゜▽゜)o☆
 
 ![Example Usage - README Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Excel;Empower+with+Cloud+Technology;Discover%2C+Optimize%2C+Succeed&font=Fira+Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
