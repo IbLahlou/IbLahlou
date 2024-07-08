@@ -61,5 +61,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=IbLahlou&theme=nord&column=7"  align="center"/>
 </p>
 
-
-### Old Account was deleted due to an email problem
