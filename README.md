@@ -58,7 +58,7 @@
 <hr>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,kubernetes,docker,fastapi,postgresql,mysql,pandas,js" alt="Skill Icons" style="width: 95%;" />
+ <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,kubernetes,docker,fastapi,postgresql,mysql,gcp,js" alt="Skill Icons" style="width: 95%;" />
 </p>
 
 
