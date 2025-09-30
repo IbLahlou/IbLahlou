@@ -50,6 +50,8 @@
 	</picture>
 </a>
 
+[![Lahlou ibrahim profile views](https://u8views.com/api/v1/github/profiles/105231126/views/day-week-month-total-count.svg)](https://u8views.com/github/IbLahlou)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
