@@ -26,8 +26,6 @@ I prioritize **understanding over imitation** and **foundations over complexity*
 
 ---
 
-## MLOps Workflow
-
 ![svgviewer-output](https://github.com/user-attachments/assets/25b73f28-5b1b-409d-b1bf-497504b029fc)
 <svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
@@ -76,7 +74,7 @@ I prioritize **understanding over imitation** and **foundations over complexity*
 ---
 
 <details>
-<summary><b>📊 GitHub Statistics</b></summary>
+<summary><b> GitHub Statistics</b></summary>
 
 <br/>
 
