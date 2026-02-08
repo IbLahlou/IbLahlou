@@ -10,7 +10,6 @@ I am an ML engineer and data scientist from Morocco focused on building producti
 
 I prioritize **understanding over imitation** and **foundations over complexity**, because deep knowledge leads to robust, maintainable solutions.
 
-
 ---
 
 ## Approach & Philosophy
@@ -27,8 +26,9 @@ I prioritize **understanding over imitation** and **foundations over complexity*
 
 ---
 
+## MLOps Workflow
 
-![svgviewer-output](https://github.com/user-attachments/assets/9b6dc25c-a753-4e16-b0c9-1d6fa349b392)
+![svgviewer-output](https://github.com/user-attachments/assets/25b73f28-5b1b-409d-b1bf-497504b029fc)
 <svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect width="900" height="200" fill="#0d1117"/>
@@ -72,6 +72,23 @@ I prioritize **understanding over imitation** and **foundations over complexity*
     <text x="660" y="180" font-family="monospace" font-size="11" fill="#8b949e">3m 20s</text>
   </g>
 </svg>
+
+---
+
+<details>
+<summary><b>📊 GitHub Statistics</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbLahlou&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbLahlou&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=3fb950&point=8b949e" alt="Contribution Graph" style="width: 95%;" />
+</p>
+
+</details>
 
 ---
 
