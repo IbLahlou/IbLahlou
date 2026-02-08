@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an MLOps engineer and data scientist from Morocco focused on building production-ready machine learning systems. I specialize in the complete ML lifecycle—from problem analysis and data engineering to model deployment and monitoring.
+I am an ML engineer and data scientist from Morocco focused on building production-ready machine learning systems. I specialize in the complete ML lifecycle—from problem analysis and data engineering to model deployment and monitoring.
 
 I prioritize **understanding over imitation** and **foundations over complexity**, because deep knowledge leads to robust, maintainable solutions.
 
